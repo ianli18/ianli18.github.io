@@ -18,15 +18,15 @@ email: "i6li@ucsd.edu"
 short_bio_text_justify: false
 short_bio: >-
   <p>
-    I am a first-year PhD student advised by Prof. Rose Yu and Prof. Loris D'Antoni. My research interests broadly lie at the intersection between machine learning and formal methods. Recently, I am particularly focusing on controllable generation with Large Language Models, with applications including (but not lmited to) AI4Science and Code Generation.
+    I am a first-year PhD student advised by <a href="https://roseyu.com/">Prof. Rose Yu</a> and <a href="https://cseweb.ucsd.edu/~ldantoni/">Prof. Loris D'Antoni</a>. My research interests broadly lie at the intersection between machine learning and formal methods. Recently, I am particularly focusing on controllable generation with Large Language Models, with applications including (but not lmited to) AI4Science and Code Generation.
   </p>
   <p>
-    Previously, I have worked with Prof. Guy Van den Broeck at UCLA on leveraging Tractable Probabilistic Models for controllable generation.
+    Previously, I have worked with <a href="https://web.cs.ucla.edu/~guyvdb/">Prof. Guy Van den Broeck</a> at UCLA on leveraging Tractable Probabilistic Models for controllable generation.
   </p>
 
-portrait_url: /assets/images/photos/portrait.jpg
-portrait_caption: >-
-  Photo by Manja Vitolic on Unsplash (this caption is optional, comment it out to disable).
+portrait_url: /assets/images/photos/pfp.jpg
+# portrait_caption: >-
+#   Photo by Manja Vitolic on Unsplash (this caption is optional, comment it out to disable).
 
 education:
 - name: University of California, San Diego
