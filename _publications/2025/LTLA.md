@@ -19,6 +19,6 @@ authors:
   - Guy Van den Broeck
   - Benjie Wang
 links:
-  Paper: https://arxiv.org/abs/2511.16054v1
+  Paper: https://arxiv.org/abs/2511.16054
 #   Unsplash: https://unsplash.com/photos/sliced-in-half-pineapple--_PLJZmHZzk
 ---

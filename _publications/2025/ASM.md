@@ -2,8 +2,8 @@
 title:          "Steering LLMs’ Reasoning With Activation State Machines"
 date:           2025-09-1 00:01:00 +0800
 selected:       true
-pub:            "ArXiv"
-pub_pre:        "FoRLM @ NeurIPS 2025"
+pub:            "FoRLM @ NeurIPS 2025"
+# pub_pre:        ""
 # pub_post:       'Under review.'
 # pub_last:       ' <span class="badge badge-pill badge-publication badge-success">Spotlight</span>'
 pub_date:       "2025"
@@ -19,5 +19,5 @@ authors:
   - Loris D'Antoni
   - Rose Yu
 links:
-  # Paper: https://arxiv.org/abs/2511.16054v1
+  Paper: https://openreview.net/pdf?id=HCG7UGGRqz
 ---

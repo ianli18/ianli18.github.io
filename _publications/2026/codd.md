@@ -1,10 +1,10 @@
 ---
 title:          "Breaking the Factorization Barrier in Diffusion Language Models"
-date:           2026-02-1 00:01:00 +0800
+date:           2026-07-6 00:01:00 +0800
 selected:       true
 # pub:            "ArXiv"
 # pub_pre:        "FoRLM @ NeurIPS 2025"
-pub_post:       'Under review.'
+pub_post:       'ICML.'
 # pub_last:       ' <span class="badge badge-pill badge-publication badge-success">Spotlight</span>'
 pub_date:       "2026"
 # semantic_scholar_id:  # use this to retrieve citation count
